@@ -1,6 +1,6 @@
-# Attendance Tracker & Analytics
+# Attendance Tracker
 
-An Excel-based attendance tracking and analytics system developed as a cumulative project for the Excel and Copilot Fundamentals course.
+An Excel-based attendance tracking system developed as a cumulative project for the Excel and Copilot Fundamentals course.
 
 The project combines data from multiple worksheets, performs data lookups and attendance calculations, evaluates department-specific attendance requirements, and uses PivotTables and visualizations to analyze attendance trends.
 
