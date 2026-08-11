@@ -31,6 +31,8 @@ The project combines data from multiple worksheets, performs data lookups and at
 
 Workbook/
 - Attendance Tracker.xlsx
+
+Template/
 - Attendance Tracker.xltx
 
 Screenshots/
