@@ -1,6 +1,8 @@
-# Attendance Tracker
+# Attendance Tracker & Analytics
 
-An attendance tracking system built in Microsoft Excel.
+An Excel-based attendance tracking and analytics system developed as a cumulative project for the Excel and Copilot Fundamentals course.
+
+The project combines data from multiple worksheets, performs data lookups and attendance calculations, evaluates department-specific attendance requirements, and uses PivotTables and visualizations to analyze attendance trends.
 
 ## Features
 
@@ -9,6 +11,13 @@ An attendance tracking system built in Microsoft Excel.
 - Department-specific attendance validation
 - Department-wise attendance summary
 - Reusable Excel template
+
+## Skills Demonstrated
+
+- Data cleaning and validation
+- PivotTables
+- Data visualization
+- Microsoft Copilot
 
 ## Functions Used
 
