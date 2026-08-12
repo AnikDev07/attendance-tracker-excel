@@ -14,10 +14,11 @@ The project combines data from multiple worksheets, performs data lookups and at
 
 ## Skills Demonstrated
 
-- Data cleaning and validation
-- PivotTables
-- Data visualization
+- Microsoft Excel
 - Microsoft Copilot
+- Data Analysis
+- Data Visualization
+- Data Manipulation
 
 ## Functions Used
 
